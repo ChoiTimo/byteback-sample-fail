@@ -1,0 +1,8 @@
+{
+  "schema": "aleph.config.v1",
+  "step": 12,
+  "repoUrl": "https://github.com/ChoiTimo/byteback-sample-fail",
+  "allowedRoutes": [
+    { "service": "notes", "method": "GET", "pathPattern": "/api/notes" }
+  ]
+}
